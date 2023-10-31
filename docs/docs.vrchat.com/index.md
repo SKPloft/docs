@@ -1,7 +1,15 @@
 ---
-description: 本指南由 星宿悦游社 X VRCD 翻译至VRChat官方文档
+layout: home
+
+hero:
+  name: VRChat汉化文档中心
+  text: 
+  tagline: 本指南由 星宿悦游社 X VRCD 翻译至VRChat官方文档
+  actions:
+    - theme: brand
+      text: VRChat文档
+      link: docs.vrchat.com/docs.vrchat.com.md
+    - theme: alt
+      text: VRChat创作者文档
+      link: 
 ---
-
-# VRChat汉化文档中心
-
-欢迎来到VRChat汉化文档中心。您将找到全面的指南和文档，以帮助您尽快游玩VRChat，并在遇到困难时为您提供支持。让我们直接开始吧！
